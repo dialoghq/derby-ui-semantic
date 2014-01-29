@@ -1,0 +1,19 @@
+{
+  "name": "derby-ui-semantic",
+  "version": "0.0.0",
+  "description": "Derby component library for Semantic UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/partial/derby-ui-semantic"
+  },
+  "author": "Alexander Wenzowski <alexander@wenzowski.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/partial/derby-ui-semantic/issues"
+  },
+  "homepage": "https://github.com/partial/derby-ui-semantic"
+}
