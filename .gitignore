@@ -1,0 +1,12 @@
+jquery
+
+semantic/*
+semantic/build/*
+semantic/build/packaged/*
+semantic/build/packaged/css/*
+
+!semantic/build
+!semantic/build/packaged
+!semantic/build/packaged/css
+!semantic/build/packaged/css/semantic.min.css
+
